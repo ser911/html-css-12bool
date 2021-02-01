@@ -1,0 +1,11 @@
+[class *="col-"] {
+  border: 1px solid #790c5a;
+  background-color: #fe7171;
+  min-height: 200px;
+}
+
+.row{
+width: 1170px;
+min-height: 100px;
+margin: 0 auto;
+}
